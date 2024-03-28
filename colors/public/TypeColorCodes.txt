@@ -1,0 +1,11 @@
+1: #f79b1e	Tree Poppy
+2: #b2d336	Atlantis
+3: #728139	Pesto
+4: #10aa5c	Mountain Meadow
+5: #065592	Venice Blue
+6: #685d9b	Scampi
+7: #669ad0	Danube
+8: #e13e2d	Cinnabar
+9: #a73e29	Tall Poppy
+
+with the help of https://imagecolorpicker.com/
